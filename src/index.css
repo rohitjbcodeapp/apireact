@@ -1,4 +1,9 @@
-/* CSS for UserList component */
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
 .user-list-container {
   text-align: center;
   margin-bottom: 5px;
