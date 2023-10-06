@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactapi/static/css/main.ff4b5c44.css",
-    "main.js": "/reactapi/static/js/main.56e1e5a8.js",
-    "static/js/787.178672dc.chunk.js": "/reactapi/static/js/787.178672dc.chunk.js",
-    "index.html": "/reactapi/index.html",
-    "main.ff4b5c44.css.map": "/reactapi/static/css/main.ff4b5c44.css.map",
-    "main.56e1e5a8.js.map": "/reactapi/static/js/main.56e1e5a8.js.map",
-    "787.178672dc.chunk.js.map": "/reactapi/static/js/787.178672dc.chunk.js.map"
+    "main.css": "/apireact/static/css/main.ff4b5c44.css",
+    "main.js": "/apireact/static/js/main.1909729c.js",
+    "static/js/787.178672dc.chunk.js": "/apireact/static/js/787.178672dc.chunk.js",
+    "index.html": "/apireact/index.html",
+    "main.ff4b5c44.css.map": "/apireact/static/css/main.ff4b5c44.css.map",
+    "main.1909729c.js.map": "/apireact/static/js/main.1909729c.js.map",
+    "787.178672dc.chunk.js.map": "/apireact/static/js/787.178672dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff4b5c44.css",
-    "static/js/main.56e1e5a8.js"
+    "static/js/main.1909729c.js"
   ]
 }
